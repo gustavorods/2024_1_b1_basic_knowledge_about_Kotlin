@@ -1,6 +1,6 @@
-<p align="center">
-  <img height="140px" src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" align="center" alt="Java logo" />
-  <h2 align="center">Java Exercises</h2>
+![image](https://github.com/gustavorods/2024_1_b1_introducao_a_programacao_kotlin/assets/102333401/2666788f-1105-433d-97c2-fe2f4794e1cc)<p align="center">
+  <img height="140px" src="https://cms-assets.tutsplus.com/uploads/users/1499/posts/29445/preview_image/kotlin.jpg" align="center" alt="Java logo" />
+  <h2 align="center">Kotlin Exercises</h2>
   <p align="center">The purpose of the exercises is to provide an opportunity to practice skills using the Kotlin language.
  </p>
 </p>
@@ -10,7 +10,7 @@
 <P align="left">
 <h2>Announcements of the exercises and their names in the file: </h2>
 
-#### The 7 exercises are in 7 different branches. Each branch corresponds to the given exercise
+#### Notes:The 7 exercises are in 7 different branches. Each branch corresponds to the given exercise
 
 <br/> 
 
