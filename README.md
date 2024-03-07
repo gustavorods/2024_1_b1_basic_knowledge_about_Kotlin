@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="140px" src="https://cms-assets.tutsplus.com/uploads/users/1499/posts/29445/preview_image/kotlin.jpg" align="center" alt="Java logo" />
+  <img height="140px" src="[https://cms-assets.tutsplus.com/uploads/users/1499/posts/29445/preview_image/kotlin.jpg](https://miro.medium.com/v2/resize:fit:1400/0*bijuXf_Sm8fo5ybu)" align="center" alt="Java logo" />
   <h2 align="center">Kotlin Exercises</h2>
   <p align="center">The purpose of the exercises is to provide an opportunity to practice skills using the Kotlin language.
  </p>
