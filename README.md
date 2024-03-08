@@ -10,7 +10,7 @@
 <P align="left">
 <h2>Announcements of the exercises and their names in the file: </h2>
 
-#### Notes:The 7 exercises are in 7 different branches. Each branch corresponds to the given exercise
+#### Notes: The 7 exercises are in 7 different branches. Each branch corresponds to the given exercise
 
 <br/> 
 
@@ -89,5 +89,7 @@ Desired output:
 ```
 How's the weather today?
 ```
+<br/>
 
+### Notes: All exercises were taken from the training program on the Kotlin language, from Google Developer. [More details](https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-1)
 </P>
